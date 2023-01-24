@@ -6,11 +6,11 @@
 
 ## 北海道
 
-* XMLデータ展開完了。１回unzipデータセット<br>
+* XMLデータ展開完了。１回unzipデータセット, GitHub Pages ON<br>
 https://github.com/amx-project/kuwanauchi01hokkaido
 
 
 ## 岩手県
 
-* XMLデータ展開完了。１回unzipデータセット<br>
+* XMLデータ展開完了。１回unzipデータセット, GitHub Pages ON<br>
 https://github.com/amx-project/kuwanauchi03iwate
