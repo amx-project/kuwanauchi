@@ -31,3 +31,9 @@ https://github.com/amx-project/kuwanauchi04miyagi
 
 * XMLデータ展開完了。１回unzipデータセット, GitHub Pages ON<br>
 https://github.com/amx-project/kuwanauchi05akita
+
+
+## 山形県
+
+* XMLデータ展開完了。１回unzipデータセット, GitHub Pages ON<br>
+https://github.com/amx-project/kuwanauchi06yamagata
