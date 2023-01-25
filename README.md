@@ -25,3 +25,9 @@ https://github.com/amx-project/kuwanauchi03iwate
 
 * XMLデータ展開完了。１回unzipデータセット, 一部データ欠損あり。後ほど更新予定。GitHub Pages ON<br>
 https://github.com/amx-project/kuwanauchi04miyagi
+
+
+## 秋田県
+
+* XMLデータ展開完了。１回unzipデータセット, GitHub Pages ON<br>
+https://github.com/amx-project/kuwanauchi05akita
