@@ -9,6 +9,11 @@
 * XMLデータ展開完了。１回unzipデータセット, GitHub Pages ON<br>
 https://github.com/amx-project/kuwanauchi01hokkaido
 
+## 青森県
+
+* XMLデータ展開完了。１回unzipデータセット, GitHub Pages ON<br>
+https://github.com/amx-project/kuwanauchi02aomori
+
 
 ## 岩手県
 
