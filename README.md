@@ -27,7 +27,7 @@ https://github.com/amx-project/kuwanauchi03iwate
 
 ## 宮城県
 
-* XMLデータ展開完了。１回unzipデータセット, 一部データ欠損あり。後ほど更新予定。GitHub Pages ON<br>
+* XMLデータ展開完了。１回unzipデータセット, ~~一部データ欠損あり。後ほど更新予定。~~ [修正完了](https://github.com/amx-project/kuwanauchi04miyagi/issues/1) GitHub Pages ON<br>
 https://github.com/amx-project/kuwanauchi04miyagi
 
 
@@ -47,7 +47,7 @@ https://github.com/amx-project/kuwanauchi06yamagata
 
  
 ## 福島県
-* XMLデータ展開完了。１回unzipデータセット, GitHub Pages ON<br>
+* XMLデータ展開完了。１回unzipデータセット, [福島、いわき、会津若松と郡山が欠損していたので修正しました](https://github.com/amx-project/kuwanauchi07fukushima/issues/1)。 GitHub Pages ON<br>
 https://github.com/amx-project/kuwanauchi07fukushima
 
  
