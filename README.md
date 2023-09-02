@@ -3,6 +3,12 @@
 
 ![7A12D905-788A-4C08-8C63-0D9D212BCF78](https://user-images.githubusercontent.com/416977/214225195-ce28d8b0-02d3-4db9-8400-170a74718302.png)
 
+
+## 2023年8月31日公開データ対応作業
+ * 現在鋭意更新中です。
+
+---
+
 ## 全データリスト
 * [CSVファイル](https://github.com/amx-project/kuwanauchi/blob/main/kuwanauchi_datalist.csv) 簡易検索できます。
 
