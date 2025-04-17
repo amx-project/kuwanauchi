@@ -4,8 +4,9 @@
 ![7A12D905-788A-4C08-8C63-0D9D212BCF78](https://user-images.githubusercontent.com/416977/214225195-ce28d8b0-02d3-4db9-8400-170a74718302.png)
 
 
-## 2023年8月31日公開データ対応作業
- * 現在鋭意更新中です。
+## 作業状況
+ * 現在鋭意2025年4月15日公開データ更新中です。
+ * ファイル破損やエラー等あれば [Issues](https://github.com/amx-project/kuwanauchi/issues) にご報告ください。
 
 ---
 
@@ -16,7 +17,13 @@
 ---
 
 ## 北海道
+### 2025
+* 202504公開: https://github.com/amx-project/kuwanauchi01hokkaido202504
 
+### 2024
+* そのうちやります。
+
+### 2023
 * XMLデータ展開完了。１回unzipデータセット, GitHub Pages ON<br>
 https://github.com/amx-project/kuwanauchi01hokkaido
 
