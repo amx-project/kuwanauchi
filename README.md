@@ -87,7 +87,7 @@ https://github.com/amx-project/kuwanauchi09tochigi
  
 ## 群馬県
 * XMLデータ展開完了。１回unzipデータセット, GitHub Pages ON<br>
-https://github.com/amx-project/kuwanauchi10gumma
+https://github.com/amx-project/kuwanauchi10gunma
 
  
  
